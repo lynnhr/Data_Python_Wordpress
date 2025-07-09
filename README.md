@@ -1,9 +1,9 @@
 
 📊 WordPress Data Analytics Dashboard <br>
 This project is a data analytics platform built on WordPress, showcasing end-to-end capabilities in:
-- Web scraping and data collection
-- Sentiment analysis
-- Predictive modeling
+- Web scraping and data collection: Amazon,<a href= https://github.com/lynnhr/TwitterScrape>Twitter</a> ...
+- Sentiment analysis ex:Customer reviews, etc.
+- Predictive modeling 
 - Interactive data visualization
 
 It combines machine learning using python with data visualization tools and integrates seamlessly into a WordPress environment for easy sharing and interaction.
